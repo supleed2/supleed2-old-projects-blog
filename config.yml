@@ -1,0 +1,44 @@
+# command: hugo server -D --bind=0.0.0.0 --baseURL=http://192.168.0.12:1313 
+baseURL: https://projects.8bitsqu.id/
+languageCode: en-gb
+title: Aadi | Projects
+# TO DO: Update Title
+theme: PaperMod
+# TO DO: Go through themes and select
+# paginate: 2
+permalinks:
+  posts: /:year/:month/:day/:slug/
+
+# Font Awesome icons?
+
+# PaperMod: very cool, keep in mind
+params:
+  # figure out params at https://github.com/adityatelange/hugo-PaperMod/
+  defaultTheme: auto
+  description: A personal website to show off projects and things I've done
+menu:
+  main:
+    - name: Home
+      weight: 1
+      url: /
+    - name: About
+      weight: 2
+      url: /about
+    - name: Projects
+      weight: 3
+      url: /posts/
+    - name: Contact Me
+      weight: 4
+      url: /contact
+# archive page: content/archives.md
+# ---
+# title: "Archive"
+# date: 2022-01-06T21:20:51Z
+# draft: true
+# layout: "archives"
+# url: "/archives/"
+# summary: archives
+# ---
+
+# Stack: VERY Clean, especially on desktop, keep in mind
+# params:
