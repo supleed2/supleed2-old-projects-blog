@@ -4,6 +4,7 @@ languageCode: en-gb
 title: Aadi | Projects
 # TO DO: Update Title
 theme: PaperMod
+enableEmoji: true
 # TO DO: Go through themes and select
 # paginate: 2
 permalinks:
@@ -12,10 +13,41 @@ permalinks:
 # Font Awesome icons?
 
 # PaperMod: very cool, keep in mind
+# example config: https://github.com/adityatelange/hugo-PaperMod/blob/exampleSite/config.yml
+# copyright: "Copyright Text"
 params:
   # figure out params at https://github.com/adityatelange/hugo-PaperMod/
   defaultTheme: auto
   description: A personal website to show off projects and things I've done
+  homeInfoParams:
+    Title: |
+      - Hi 👋
+    Content: |
+      - I'm Aadi, a software developer and home-lab hacker from London.
+      - Thanks for visiting my site.
+      - 
+      - Here you'll find writeups on my projects and sometimes other things I find interesting
+      - Get started here: [Welcome](/welcome)
+      - Or find me elsewhere:
+  socialIcons: # https://adityatelange.github.io/hugo-PaperMod/posts/papermod/papermod-icons/#share-icons
+    - name: github
+      url: "https://github.com/supleed2"
+    - name: linkedin
+      url: "https://www.linkedin.com/in/aadidesai/"
+    - name: keybase
+      url: "https://keybase.io/aadidesai"
+    - name: telegram
+      url: "https://t.me/supleed2"
+    - name: kofi
+      url: "https://ko-fi.com/aadidesai"
+  showShareButtons: custom
+  shareButtons:
+    - twitter
+    - linkedin
+    - reddit
+    - facebook
+    - whatsapp
+    - telegram
 menu:
   main:
     - name: Home
@@ -24,7 +56,7 @@ menu:
     - name: About
       weight: 2
       url: /about
-    - name: Projects
+    - name: Posts
       weight: 3
       url: /posts/
     - name: Contact Me
