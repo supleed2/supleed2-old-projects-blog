@@ -15,7 +15,9 @@ better use than to showcase the things I've built.
 And so, I've started this site, as a way to practice documenting my work and
 other thoughts I may have too.
 
-## Below is a list of the things I've built so far
+Below are links to writeups or relevant resources I've found helpful.
+
+## Things I've built so far
 
 - [None yet](/welcome)
 
@@ -27,9 +29,11 @@ other thoughts I may have too.
     - ESPHome Bedside Light *using Ikea Lamp and DIY Hardware*
     - Docker Container setup + recompiling kernel to add App Security tool
     - Portainer + Discord Bot Setup
+      - [Python Bot](https://github.com/supleed2/gondilinabot-python)
   - My Domain & DNS Setup
     - Nginx Setup and Self-Hosting using Home Assistant
   - **This Website**
+    - [GitHub Repo](https://github.com/supleed2/supleed2-projects-blog)
 - Drones & Such?
   - OG HobbyKing Disaster
   - Modding the Turnigy 9X
@@ -41,6 +45,13 @@ other thoughts I may have too.
 - Iris Keyboard
 - Repairing AKG K702s?
   - Fairly minor project, but it was useful, as I got them second-hand
+- University Coursework Projects *(Currently private, may be made public when possible)*
+  - Year 1 Term 3
+    - [Arm-ish CPU from scratch](https://github.com/supleed2/CPUProject)
+  - Year 2 Term 1
+    - [Verilog MIPS CPU](https://github.com/supleed2/AM04_CPU)
+  - Year 2 Term 3
+    - [EE2Rover](https://github.com/supleed2/EE2Rover)
 
 ## And finally, projects still in the concept and production stages
 
@@ -85,3 +96,22 @@ other thoughts I may have too.
   - [Working Example Product](https://blackmagic.so/)
 - Jailbreak PS4 for Homebrew
 - Integrate "Smart Meter" into Home Assistant Power Monitoring
+- Smart/ESP32 Lamp
+  - Reacts to classes of notifications *using companion app to read user notifications*
+- LucidVR Haptic Gloves
+  - [LucidVR](https://github.com/LucidVR/lucidgloves)
+- NSPanel + Integration with Home Assistant / ESPHome
+  - [NSPanel Homepage](https://sonoff.tech/product/smart-wall-swtich/nspanel/)
+  - [Product Page](https://itead.cc/product/sonoff-nspanel-smart-scene-wall-switch/)
+  - [GitHub Issue for ESPHome Integration](https://github.com/esphome/feature-requests/issues/1469)
+  - [HA Community Discussion Post](https://community.home-assistant.io/t/sonoff-nspanel-smart-scene-wall-switch-by-itead-coming-soon-on-kickstarter/332962)
+  - [Unofficial Nextion (Display) User Forum](https://unofficialnextion.com/t/welcome-to-the-unofficial-nextion-tjc-user-forum/8)
+  - [HA Community Working Example](https://community.home-assistant.io/t/nspanel-with-custom-gui-and-synchronized-button-states/377153)
+  - [Digiblur Youtube First Look](https://www.youtube.com/watch?v=cGXJnzS7D9g)
+  - [ESPthingsIO First Impressions](https://www.espthings.io/index.php/2021/10/10/sonoff-nspanel-first-impressions/)
+  - [Blakadder Teardown](https://blakadder.com/nspanel-teardown/)
+- GitHub Reademe Repository
+  - [Found Here](https://github.com/supleed2/supleed2)
+- Hakase Rewrite
+  - [Hakase](https://github.com/DennisTsiang/Hakase)
+  - [Nano](https://github.com/supleed2/nanobot)
