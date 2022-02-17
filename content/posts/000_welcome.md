@@ -27,7 +27,8 @@ Below are links to writeups or relevant resources I've found helpful.
   - Home Assistant
     - ESPHome Bedroom and Office Lights *Using Shelly One*
     - ESPHome Bedside Light *using Ikea Lamp and DIY Hardware*
-    - Docker Container setup + recompiling kernel to add App Security tool
+    - Docker Container setup
+    - Recompiling kernel to enable AppArmor Linux Security Module and switch to 64-bit
     - Portainer + Discord Bot Setup
       - [Python Bot](https://github.com/supleed2/gondilinabot-python)
   - My Domain & DNS Setup
@@ -115,3 +116,12 @@ Below are links to writeups or relevant resources I've found helpful.
 - Hakase Rewrite
   - [Hakase](https://github.com/DennisTsiang/Hakase)
   - [Nano](https://github.com/supleed2/nanobot)
+- DIY Racing Sim Rig
+  - Using G29 Racing Wheel
+  - Custom Built: Wood + Carbon Structure, Inverted Pedals, etc
+- PSP Rebuild
+  - 1 Functioning PSP
+  - 1 Framed PSP in GRID Studio Style
+- Indoor CO2 Sensor / Monitor
+  - SCD40/41 Sensor
+  - Possibly tied in with HomeAssistant / ESPHome
