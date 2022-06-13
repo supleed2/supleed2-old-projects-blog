@@ -60,6 +60,9 @@ Below are links to writeups or relevant resources I've found helpful.
   - Upgrading it to RepRapFirmware using the SKR1.4 from source
 - Reflashing Moonside Lighthouses with Custom Firmware as it's just an ESP32
   - [Moonside Lighthouse](https://shop.moonside.design/products/moonside-lighthouse)
+- Nanoleaf-style Wall Lights
+  - Based on [Moonside Neon Hex](https://www.indiegogo.com/projects/moonside-neon-hex-the-most-dynamic-modular-light#/)
+  - Using ESP32 as controller and connection
 - Minimal Azure Instance *Shrinking disk image size to lower storage cost*
 - DIY Soldering Fume Extractor Fan *Using an activated carbon filter*
 - DIY SteamVR Tracker *Following links for info*
@@ -84,6 +87,8 @@ Below are links to writeups or relevant resources I've found helpful.
   - With D-pad movement
   - With an integrated USB3 hub
 - ROTR Clone with D-pad movement
+- Similar Knob with Screen?
+  - Existing Project [Github](https://github.com/scottbez1/smartknob) and [Video](https://www.youtube.com/watch?v=ip641WmY4pA)
 - Wireless E-Ink Display
   - [E-paper Display Driver for ESP32(-S2/-C3)](https://github.com/martinberlin/cale-idf/wiki)
   - Possibly unpowered, using energy harvesting chip
@@ -125,3 +130,10 @@ Below are links to writeups or relevant resources I've found helpful.
 - Indoor CO2 Sensor / Monitor
   - SCD40/41 Sensor
   - Possibly tied in with HomeAssistant / ESPHome
+- Proxmox-based Server
+  - Old enterprise-grade NVidia GPUs?
+    - Splitting GPU power across VMs, more info in [this video](https://www.youtube.com/watch?v=jTXPMcBqoi8)
+  - Parsec as local gaming server?
+  - QOI Encoder
+    - Based on this [Video](https://www.youtube.com/watch?v=EFUYNoFRHQI)
+    - Existing Example in [Rust](https://docs.rs/qoi/latest/qoi/) and [Ci](https://github.com/pfusik/qoi-ci)
