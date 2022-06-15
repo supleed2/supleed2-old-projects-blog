@@ -41,6 +41,8 @@ params:
       url: "https://github.com/supleed2"
     - name: linkedin
       url: "https://www.linkedin.com/in/aadidesai/"
+    - name: peerlist
+      url: "https://peerlist.io/_aadi/"
     - name: keybase
       url: "https://keybase.io/aadidesai"
     - name: telegram
