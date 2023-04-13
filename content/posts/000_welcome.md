@@ -134,6 +134,10 @@ Below are links to writeups or relevant resources I've found helpful.
   - Old enterprise-grade NVidia GPUs?
     - Splitting GPU power across VMs, more info in [this video](https://www.youtube.com/watch?v=jTXPMcBqoi8)
   - Parsec as local gaming server?
-  - QOI Encoder
-    - Based on this [Video](https://www.youtube.com/watch?v=EFUYNoFRHQI)
-    - Existing Example in [Rust](https://docs.rs/qoi/latest/qoi/) and [Ci](https://github.com/pfusik/qoi-ci)
+- QOI Encoder
+  - Based on this [Video](https://www.youtube.com/watch?v=EFUYNoFRHQI)
+  - Existing Example in [Rust](https://docs.rs/qoi/latest/qoi/) and [Ci](https://github.com/pfusik/qoi-ci)
+- ICAS Automated Verification
+- UDlink
+- Writing up what I learned in my time at Nordic Semiconductor
+  - Based on notes taken during the placement, with internal information taken out

@@ -1,4 +1,4 @@
-# command: hugo server -D --bind=0.0.0.0 --baseURL=http://192.168.0.12:1313 
+# command: hugo server -D --bind=0.0.0.0 --baseURL=http://192.168.0.12:1313
 baseURL: https://projects.8bitsqu.id/
 languageCode: en-gb
 title: Aadi | Projects
@@ -32,7 +32,7 @@ params:
     Content: |
       - I'm Aadi, a software developer and home-lab hacker from London.
       - Thanks for visiting my site.
-      - 
+      -
       - Here you'll find writeups on my projects and sometimes other things I find interesting
       - Get started here: [Welcome](/welcome)
       - Or find me elsewhere:
