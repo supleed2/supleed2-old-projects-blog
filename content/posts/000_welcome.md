@@ -141,3 +141,8 @@ Below are links to writeups or relevant resources I've found helpful.
 - UDlink
 - Writing up what I learned in my time at Nordic Semiconductor
   - Based on notes taken during the placement, with internal information taken out
+- DIY Dashboard (LED Matrix Display)
+  - [Github Repo with Code and CAD Files](https://github.com/allenslab/matrix-dashboard)
+- FYP
+  - Making a CORDIC module
+  - Audio generation in an FPGA
