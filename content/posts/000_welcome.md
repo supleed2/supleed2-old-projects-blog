@@ -146,3 +146,10 @@ Below are links to writeups or relevant resources I've found helpful.
 - FYP
   - Making a CORDIC module
   - Audio generation in an FPGA
+- WearOS App
+  - Repeated chimes, with selectable spacing
+  - Android companion app to change settings
+  - Tile to change settings
+  - Complication with countdown to next chime
+- Repurpose old PC using Ubuntu Server
+  - MacOS VM including BlueBubbles application
